@@ -1,0 +1,2 @@
+ENABLE_VIA = yes
+MOUSEKEY_ENABLE = yes
